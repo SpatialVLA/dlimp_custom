@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: dlimp
+Version: 0.0.1
+Summary: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Provides-Extra: convert
+Requires-Dist: tqdm; extra == "convert"
+Requires-Dist: tqdm-multiprocess==0.0.11; extra == "convert"
+Provides-Extra: dev
+Requires-Dist: pre-commit==3.3.3; extra == "dev"
+
+UNKNOWN
